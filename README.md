@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 Welcome to my GitHub profile! This repository reflects my personal background, selected works, and learning journey in software quality assurance and development.
 
